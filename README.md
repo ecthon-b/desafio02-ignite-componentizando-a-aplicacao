@@ -22,4 +22,10 @@ A aplicação já está totalmente funcional mas grande parte do seu código est
 - Back-End - `yarn server`
 - Testes - `yarn test`
 
+## Links
+
+- [Desafio](https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1)
+- [Template](https://github.com/rocketseat-education/ignite-template-componentizando-a-aplicacao)
+
+<br>
 Com 💚 por [Ecthon](https://github.com/ecthon)
